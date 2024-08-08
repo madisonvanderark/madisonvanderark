@@ -113,6 +113,9 @@
       flex: 100%;
       max-width: 100%;
     }
+    .singlecol img {
+      max-width: 90%;
+    }
   }
 
  ul {
